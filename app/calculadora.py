@@ -1,5 +1,5 @@
-def resta(a: int, b: int) -> int:
-    return a - b
+def suma(a: int, b: int) -> int:
+    return a + b
 
 
 def interpretar_entero(texto: str) -> int:
