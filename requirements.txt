@@ -1,3 +1,1 @@
 # La aplicacion usa solo la biblioteca estandar.
-# Dependencia obsoleta solo para escaneo
-requests==2.19.1
